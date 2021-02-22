@@ -28,3 +28,9 @@
 - component를 세분화함
 - state랑 props 개념 읽어보기만 했지 직접 적용시키는 걸 못해봐서 이번에 리팩토링하면서 해봄
 - react-navigation을 사용해서 screen component에 props를 전달해주는 법을 몰랐는데 이번에 알게됨..
+
+
+### 4주차 ver4
+- modal 두개 다 완성
+- 내가 올린 사진, 태그 된 사진 component 모두 만듦
+- 게시물 재사용할 component만들고, 전체 게시물 보는 component를 네비게이션 stack에 삽입함 
