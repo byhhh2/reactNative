@@ -38,4 +38,7 @@
 ### 5주차 ver5
 - 팔로워, 팔로잉 Screen에 react-native-tab-view/material-top을 적용해서 탭으로 팔로우-> 팔로잉, 팔로잉-> 팔로우 이동할 수 있도록 함 
 - 홈 화면과 프로필 화면 합침 : 하나의 탭에 각각 component가 지정되어 있는 형태 (Home, Profile, Magnifier..)
-- 특정 화면이 띄워질 때 TabBar가 보여지지 않도록 해야 함. (아직 완성 못함)
+- 특정 화면이 띄워질 때 TabBar가 보여지지 않도록 함 (ProfileEdit창 띄울 때 TabBar숨기기)
+- MakeContent modal창에서 게시물 누르면 게시물 추가하는 창 뜨도록 함 
+- 로그인 화면, 홈 화면, 프로필 화면 모두 합침 
+- 라이트 모드로 색 통일 
