@@ -45,3 +45,4 @@
 
 ### 6주차 ver6
 - 폴더정리 
+![structure](https://user-images.githubusercontent.com/52737532/110845903-80395380-82ee-11eb-84f5-0c90ef243d0e.png)
