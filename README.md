@@ -46,6 +46,7 @@
 ### 6주차
 - 폴더정리 
 ![structure](https://user-images.githubusercontent.com/52737532/110845903-80395380-82ee-11eb-84f5-0c90ef243d0e.png)
+
 -> 완성된 구조는 아니지만 이런 식으로 구조를 만듦 
 ![image](https://user-images.githubusercontent.com/52737532/110846116-c2629500-82ee-11eb-93ce-b2234d873885.png)
 - github 각자 branch 생성 (프로필은 feature/profile)
