@@ -57,3 +57,11 @@
 - 인스타그램은 프로필에서 게시물 하나만 눌러도 전체 게시물이 List로 나열돼서 페이지에 보여진다. 이 기능을 Ref로 구현 
 - 댓글 달기 기능 구현 
 - tab이 보이지 않아야 하는 페이지에서 tab 숨김 처리 
+
+### 8주차 ver8
+- profile에서 axios를 사용하여 id, name bio를 보여줌 
+- axios를 사용하여 내가 작성한 post 보여줌 
+- axios global setting을 통해 token과 url을 global화 
+- redux를 사용하여 name, id 저장해서 전역으로 사용할 수 있도록
+- 사진 눌러서 나오는 전체 게시물 창도 axios를 통해 get post
+- axios를 이용해서 get follower
